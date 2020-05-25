@@ -1,0 +1,4 @@
+#ifndef RESOURCE_RC_INCLUDED
+
+MYICON ICON "icone.ico"
+#endif // RESOURCE_RC_INCLUDED
